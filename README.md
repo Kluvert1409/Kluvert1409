@@ -3,4 +3,4 @@ Eu sou o Kluvert
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kluvert-gabriel-silva-rocha-661841268)
 
-![Kluvert GitHub stats](https://github-readme-stats.vercel.app/api?username=Kluvert1409&show_icons=true&theme=radical&locale=pt-br) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kluvert1409&layout=compact&locale=pt-br)
+![Kluvert GitHub stats](https://github-readme-stats.vercel.app/api?username=Kluvert1409&show_icons=true&theme=radical&locale=pt-br) ![Langs mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kluvert1409&layout=donut&locale=pt-br&theme=radical)
