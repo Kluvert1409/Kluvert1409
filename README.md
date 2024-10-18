@@ -1,6 +1,7 @@
 ## Olá, Eu sou o Kluvert😄
 
-<a> <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=Kluvert1409&show_icons=true&theme=radical&locale=pt-br&card_height=30"/> </a>
+<a> <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=Kluvert1409&show_icons=true&theme=radical&locale=pt-br"/> </a>
+
 <a> <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kluvert1409&layout=donut&locale=pt-br&theme=radical"/> </a>
 
 <div style="display: inline_block">
